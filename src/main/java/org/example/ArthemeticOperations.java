@@ -21,4 +21,6 @@ public class ArthemeticOperations {
         System.out.println("Addition of a+b= "+mult);
 
     }
+
+    
 }
