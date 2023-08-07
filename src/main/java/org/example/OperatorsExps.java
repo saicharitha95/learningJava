@@ -2,13 +2,13 @@ package org.example;
 
 public class OperatorsExps {
     public static void main(String args[]){
-        //arthematicOprts(10,20);
+        arthematicOprts(10,20);
         //assignmentOprts(10,20);
         //relationalOptrs(10,20);
         //shiftOptrs(10,20);
         //bitwiseOptrs(10,20);
-        urnaryopts(10);
-        urnaryopts(10);
+        //urnaryopts(10);
+        //urnaryopts(10);
 
     }
     public static void arthematicOprts(int a,int b){
