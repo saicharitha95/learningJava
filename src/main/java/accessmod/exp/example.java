@@ -6,7 +6,6 @@ public class example {
         System.out.println(date);
         B obj1=new B();
 
-
         System.out.println(obj1.marks);
     }
     public static class B{
